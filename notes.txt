@@ -1,2 +1,0 @@
-Node makes CLI tools useful.
-Files are common input.
